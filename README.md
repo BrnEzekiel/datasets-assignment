@@ -64,7 +64,7 @@ The following charts are generated:
 ## 👨‍💻 Author
 - Name: **Brian**  
 - Course: **Python Programming / Data Analysis**  
-- Institution: **[Your Institution Name]**  
+
 
 ---
 
